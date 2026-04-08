@@ -19,4 +19,4 @@ int main(void) {
 			cout << s << "은/는 회문이 아닙니다. ㅠㅠ" << endl;
 	}
 	return 0;
-}
+}	
